@@ -5,6 +5,7 @@ import Optimize from "./components/Optimize";
 import Sustain from './components/Sustain'
 import Mineral from './components/Mineral'
 import OilAndGas from './components/OilAndGas'
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Sustain/>
       <Mineral/>
       <OilAndGas/>
+      <Footer/>
     </div>
   );
 }

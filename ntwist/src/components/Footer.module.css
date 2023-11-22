@@ -1,0 +1,43 @@
+.main{
+    margin-top: 50px;
+    width: 100%;
+    height: 300px;
+    background: rgb(2, 2, 54);
+}
+.imgBox{
+    width: 200px;
+    height: 40px;
+    margin: auto;
+}
+.imgBox img{
+    width: 100%;
+    height: 100%;
+    margin-top:20px;
+}
+.links{
+    width: 60%;
+    height: 50px;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.footerPara{
+    text-align: center;
+    color: gray;
+}
+.logos{
+    width: 100px;
+    margin: auto;
+    
+}
+.logos i{
+    margin: 10px;
+    color:white;
+}
+@media only screen and (max-width: 600px) {
+    .links{
+        width: 100%;
+    }
+}
