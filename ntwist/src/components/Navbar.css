@@ -4,8 +4,6 @@ nav {
     display: flex;
     justify-items: center;
     justify-content: space-between;
-    /* background-color: teal; */
-    border: 1px solid red;
     
   }
   

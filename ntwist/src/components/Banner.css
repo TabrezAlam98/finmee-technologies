@@ -1,5 +1,4 @@
 .banner{
-    border: 1px solid green;
     width: 100%;
     height: 86vh;
     position: relative;
@@ -20,7 +19,7 @@ h1{
   top: 40%;
   left: 10%;
 }
-button{
+.btn{
     position:absolute;
     top: 65%;
     left: 10%;
