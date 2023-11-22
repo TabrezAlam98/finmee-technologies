@@ -3,7 +3,6 @@
     margin: auto;
     display: flex;
     margin-top: 50px;
-    gap: 20px;
 }
 .contain div{
     width: 50%;
@@ -35,7 +34,7 @@
     .contain {
         width: 100%;
       flex-direction: column;
-      gap: 10px;
+      gap: 15px;
       
     }
     .contain div{

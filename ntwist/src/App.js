@@ -2,6 +2,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Banner from "./components/Banner";
 import Optimize from "./components/Optimize";
+import Sustain from './components/Sustain'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <Banner />
       <Optimize />
+      <Sustain/>
     </div>
   );
 }
