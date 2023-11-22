@@ -4,6 +4,7 @@ import Banner from "./components/Banner";
 import Optimize from "./components/Optimize";
 import Sustain from './components/Sustain'
 import Mineral from './components/Mineral'
+import OilAndGas from './components/OilAndGas'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Optimize />
       <Sustain/>
       <Mineral/>
+      <OilAndGas/>
     </div>
   );
 }
